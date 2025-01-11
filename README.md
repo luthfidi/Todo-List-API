@@ -21,8 +21,8 @@ Sebuah API RESTful untuk mengelola daftar tugas (todo) dengan autentikasi penggu
 
 1. Clone repository:
 ```bash
-git clone <url-repository>
-cd todo-api
+git clone https://github.com/luthfidi/Todo-List-API.git
+cd Todo-List-API
 ```
 
 2. Install dependensi:
